@@ -1,0 +1,21 @@
+@media (max-width: 760px){
+   header ul, header input, #sugestao-btn, #ellipses {
+       display: none;
+   }
+
+   .img-post {
+        width: 6.8rem;
+   }
+
+   .destaques {
+       margin-right: 0;
+   }
+
+   .row {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+   }
+
+
+}
