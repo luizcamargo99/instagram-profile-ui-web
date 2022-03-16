@@ -17,5 +17,9 @@
     align-content: center;
    }
 
+   .last-row {
+       justify-content: flex-start;
+   }
+
 
 }
